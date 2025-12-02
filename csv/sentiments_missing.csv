@@ -1,0 +1,870 @@
+,phrase,label,sentiment,subjectivity,language,count
+Vatican,Vatican,FAC,0.5414213564213565,1.4015636406077587,en,100
+first,first,ORDINAL,,,en,56
+Israeli,Israeli,NORP,,,en,53
+Saturday,Saturday,DATE,,,en,43
+2025,2025,CARDINAL,,,en,42
+Palestinian,Palestinian,NORP,,,en,37
+two,two,CARDINAL,,,en,34
+one,one,CARDINAL,,,en,25
+5,5,CARDINAL,,,en,22
+Friday,Friday,DATE,,,en,21
+Palestinians,Palestinians,NORP,,,en,20
+62,62,CARDINAL,,,en,19
+Hurricane Melissa,Hurricane Melissa,EVENT,,,en,18
+Indigenous,Indigenous,NORP,,,en,16
+Wednesday,Wednesday,DATE,,,en,15
+Catholic,Catholic,NORP,,,en,15
+dozens,dozens,CARDINAL,,,en,15
+Monday,Monday,DATE,,,en,15
+three,three,CARDINAL,,,en,15
+Sunday,Sunday,DATE,,,en,14
+today,today,DATE,,,en,14
+Thursday,Thursday,DATE,,,en,14
+Nov 19,Nov 19,DATE,,,en,13
+American,American,NORP,,,en,12
+this week,this week,DATE,,,en,11
+200,200,CARDINAL,,,en,10
+Tuesday,Tuesday,DATE,,,en,10
+yesterday,yesterday,DATE,,,en,10
+British,British,NORP,,,en,9
+four,four,CARDINAL,,,en,9
+five,five,CARDINAL,,,en,9
+French,French,NORP,,,en,9
+a decade ago,a decade ago,DATE,,,en,9
+Jewish,Jewish,NORP,,,en,9
+Russian,Russian,NORP,,,en,9
+Chinese,Chinese,NORP,,,en,9
+Irish,Irish,NORP,,,en,9
+Nov 12,Nov 12,DATE,,,en,9
+second,second,ORDINAL,,,en,8
+20,20,CARDINAL,,,en,8
+Australian,Australian,NORP,,,en,8
+Ukrainian,Ukrainian,NORP,,,en,8
+European,European,NORP,,,en,8
+annual,annual,DATE,,,en,8
+21,21,CARDINAL,,,en,8
+22,22,CARDINAL,,,en,7
+Oct. 10,Oct. 10,DATE,,,en,7
+Indian,Indian,NORP,,,en,7
+Israels,Israels,NORP,,,en,7
+third,third,ORDINAL,,,en,7
+Christmas,Christmas,DATE,,,en,7
+3,3,CARDINAL,,,en,7
+World Cup,World Cup,EVENT,,,en,6
+Canadian,Canadian,NORP,,,en,6
+the decade,the decade,DATE,,,en,6
+15,15,CARDINAL,,,en,6
+6,6,CARDINAL,,,en,5
+1,1,CARDINAL,,,en,5
+hundreds,hundreds,CARDINAL,,,en,5
+2015,2015,DATE,,,en,5
+half,half,CARDINAL,,,en,5
+Q2,Q2,CARDINAL,,,en,5
+Moroccan,Moroccan,NORP,,,en,5
+Americans,Americans,NORP,,,en,5
+4,4,CARDINAL,,,en,5
+Indonesian,Indonesian,NORP,,,en,5
+November,November,DATE,,,en,5
+Nov. 14,Nov. 14,DATE,,,en,5
+Egyptian,Egyptian,NORP,,,en,5
+the Defensores del Chaco Stadium,the Defensores del Chaco Stadium,FAC,,,en,4
+"2025 /
+ ","2025 /
+ ",DATE,,,en,4
+Saudi,Saudi,NORP,,,en,4
+Nov 15,Nov 15,DATE,,,en,4
+Nordic,Nordic,NORP,,,en,4
+months,months,DATE,,,en,4
+Nov 17,Nov 17,DATE,,,en,4
+2,2,CARDINAL,,,en,4
+night,night,TIME,,,en,4
+this year,this year,DATE,,,en,4
+October 10,October 10,DATE,,,en,4
+Jamaican,Jamaican,NORP,,,en,4
+First,First,ORDINAL,,,en,4
+Nov 14,Nov 14,DATE,,,en,4
+One,One,CARDINAL,,,en,4
+This week,This week,DATE,,,en,4
+decades,decades,DATE,,,en,4
+Inuit,Inuit,NORP,,,en,4
+this weekend,this weekend,DATE,,,en,4
+61,61,CARDINAL,,,en,4
+Venezuelan,Venezuelan,NORP,,,en,4
+more than 350,more than 350,CARDINAL,,,en,3
+Democrats,Democrats,NORP,,,en,3
+Three,Three,CARDINAL,,,en,3
+Two,Two,CARDINAL,,,en,3
+October 2025,October 2025,DATE,,,en,3
+millions,millions,CARDINAL,,,en,3
+"November 16, 2025","November 16, 2025",DATE,,,en,3
+Davis Cup,Davis Cup,FAC,,,en,3
+2023,2023,DATE,,,en,3
+Celtic,Celtic,NORP,,,en,3
+"more than 1,300","more than 1,300",CARDINAL,,,en,3
+German,German,NORP,,,en,3
+28,28,CARDINAL,,,en,3
+17,17,CARDINAL,,,en,3
+Czech,Czech,NORP,,,en,3
+Millions,Millions,CARDINAL,,,en,3
+last week,last week,DATE,,,en,3
+Christian,Christian,NORP,,,en,3
+Nov 4,Nov 4,DATE,,,en,3
+Falklands,Falklands,NORP,,,en,3
+winters,winters,DATE,,,en,3
+over 25 years,over 25 years,DATE,,,en,3
+1996-98,1996-98,DATE,,,en,3
+every day,every day,DATE,,,en,3
+24,24,CARDINAL,,,en,3
+Nov 22,Nov 22,DATE,,,en,3
+the years,the years,DATE,,,en,3
+8,8,CARDINAL,,,en,3
+African,African,NORP,,,en,3
+November 2025,November 2025,DATE,,,en,3
+US$200 Million,US$200 Million,MONEY,,,en,3
+Life Sciences Hub,Life Sciences Hub,PRODUCT,,,en,3
+last year,last year,DATE,,,en,3
+Jamaicans,Jamaicans,NORP,,,en,3
+$50 billion,$50 billion,MONEY,,,en,3
+August,August,DATE,,,en,3
+Android,Android,WORK_OF_ART,,,en,3
+13,13,CARDINAL,,,en,3
+morning,morning,TIME,,,en,3
+Nov. 19,Nov. 19,DATE,,,en,3
+Nigerian,Nigerian,NORP,,,en,3
+Five,Five,CARDINAL,,,en,3
+early October,early October,DATE,,,en,3
+Christians,Christians,NORP,,,en,3
+French-Chilean,French-Chilean,NORP,,,en,3
+2020,2020,DATE,,,en,3
+Argentine,Argentine,NORP,,,en,3
+10 years,10 years,DATE,,,en,3
+10th,10th,ORDINAL,,,en,3
+years,years,DATE,,,en,3
+seven,seven,CARDINAL,,,en,3
+7,7,CARDINAL,,,en,3
+three-month,three-month,DATE,,,en,2
+Covered List,Covered List,WORK_OF_ART,,,en,2
+2018,2018,DATE,,,en,2
+Hurricane Melissa's,Hurricane Melissa's,EVENT,,,en,2
+Catholics,Catholics,NORP,,,en,2
+"130,000 years old","130,000 years old",DATE,,,en,2
+monthly,monthly,DATE,,,en,2
+one year,one year,DATE,,,en,2
+the first years,the first years,DATE,,,en,2
+1936,1936,DATE,,,en,2
+Four,Four,CARDINAL,,,en,2
+Interstate 290,Interstate 290,FAC,,,en,2
+Constantine,Constantine,NORP,,,en,2
+Spanish,Spanish,NORP,,,en,2
+Arab,Arab,NORP,,,en,2
+Europeans,Europeans,NORP,,,en,2
+Oct. 7,Oct. 7,DATE,,,en,2
+Eternal Darkness: Sanity's Requiem,Eternal Darkness: Sanity's Requiem,WORK_OF_ART,,,en,2
+1913,1913,DATE,,,en,2
+GameCube,GameCube,PRODUCT,,,en,2
+six,six,CARDINAL,,,en,2
+At least nine,At least nine,CARDINAL,,,en,2
+Predator: Badlands,Predator: Badlands,WORK_OF_ART,,,en,2
+'s a Wonderful Life,'s a Wonderful Life,WORK_OF_ART,,,en,2
+the seventies to nineties,the seventies to nineties,DATE,,,en,2
+47,47,DATE,,,en,2
+neo-Nazi,neo-Nazi,NORP,,,en,2
+2024,2024,DATE,,,en,2
+1962,1962,DATE,,,en,2
+World War II,World War II,EVENT,,,en,2
+roughly two months,roughly two months,DATE,,,en,2
+the Ice Ages,the Ice Ages,DATE,,,en,2
+one helluva year,one helluva year,DATE,,,en,2
+two-year,two-year,DATE,,,en,2
+the 1970s,the 1970s,DATE,,,en,2
+a Letter of Intent,a Letter of Intent,LAW,,,en,2
+This Weekend,This Weekend,DATE,,,en,2
+late 2023,late 2023,DATE,,,en,2
+Brazilian,Brazilian,NORP,,,en,2
+the V-J Day 80th anniversary events,the V-J Day 80th anniversary events,FAC,,,en,2
+the National Memorial Arboretum,the National Memorial Arboretum,FAC,,,en,2
+a year,a year,DATE,,,en,2
+Algerian,Algerian,NORP,,,en,2
+weekly,weekly,DATE,,,en,2
+Consentless,Consentless,WORK_OF_ART,,,en,2
+winter,winter,DATE,,,en,2
+Bible,Bible,WORK_OF_ART,,,en,2
+Bibles,Bibles,PRODUCT,,,en,2
++3332 chars,+3332 chars,WORK_OF_ART,,,en,2
+25 years,25 years,DATE,,,en,2
+19th-century,19th-century,DATE,,,en,2
+South Korean,South Korean,NORP,,,en,2
+"about 800,000 years","about 800,000 years",DATE,,,en,2
+more than 600,more than 600,CARDINAL,,,en,2
+the summer of 2022,the summer of 2022,DATE,,,en,2
+a 'historic day',a 'historic day',DATE,,,en,2
+50th,50th,ORDINAL,,,en,2
+the mid-19th century,the mid-19th century,DATE,,,en,2
+The Sound of Music,The Sound of Music,WORK_OF_ART,,,en,2
+6 million,6 million,CARDINAL,,,en,2
+iOS,iOS,PRODUCT,,,en,2
+2025 / 11:15 am,2025 / 11:15 am,TIME,,,en,2
+16 November 2025,16 November 2025,DATE,,,en,2
+later this month,later this month,DATE,,,en,2
+Nov 6,Nov 6,DATE,,,en,2
+the Indonesia-Pacific Cultural Synergy,the Indonesia-Pacific Cultural Synergy,FAC,,,en,2
+2013,2013,DATE,,,en,2
+Nov 16,Nov 16,DATE,,,en,2
+Fright Train,Fright Train,WORK_OF_ART,,,en,2
+50 Years,50 Years,DATE,,,en,2
+'Life is Beautiful,'Life is Beautiful,WORK_OF_ART,,,en,2
+Ordinary People,Ordinary People,WORK_OF_ART,,,en,2
+10,10,CARDINAL,,,en,2
+135 years,135 years,DATE,,,en,2
+the 1980s and 1990s,the 1980s and 1990s,DATE,,,en,2
+the American Revolution,the American Revolution,EVENT,,,en,2
+four months,four months,DATE,,,en,2
+the small hours of the night,the small hours of the night,TIME,,,en,2
+the deadliest hours,the deadliest hours,TIME,,,en,2
+about 3 hours ago,about 3 hours ago,TIME,,,en,2
+Norwegian,Norwegian,NORP,,,en,2
+85,85,CARDINAL,,,en,2
+the Paris Agreement,the Paris Agreement,LAW,,,en,2
+Chef of Antarctica,Chef of Antarctica,WORK_OF_ART,,,en,2
+2026,2026,DATE,,,en,2
+$7.4 million,$7.4 million,MONEY,,,en,2
+Nov. 3–9 weekend,Nov. 3–9 weekend,DATE,,,en,2
+The Activist,The Activist,WORK_OF_ART,,,en,2
+early Wednesday,early Wednesday,DATE,,,en,2
+Daily,Daily,DATE,,,en,2
+5:00 PM,5:00 PM,TIME,,,en,2
+900nm,900nm,QUANTITY,,,en,2
+three nights,three nights,DATE,,,en,2
+Elsehul,Elsehul,NORP,,,en,2
+September 2025,September 2025,DATE,,,en,2
+0,0,CARDINAL,,,en,2
+Caribbean,Caribbean,NORP,0.044333333333333336,0.04866666666666667,en,2
+30 cents,30 cents,MONEY,,,en,2
+2027,2027,DATE,,,en,2
+two decades,two decades,DATE,,,en,2
+countrys,countrys,NORP,,,en,2
+the Davis Cup,the Davis Cup,EVENT,,,en,2
+approximately 12 tonnes,approximately 12 tonnes,QUANTITY,,,en,2
+Conmebol Sudamericana Cup,Conmebol Sudamericana Cup,EVENT,,,en,2
+600,600,MONEY,,,en,2
+Hurricane Melissas,Hurricane Melissas,FAC,,,en,2
+at least 24,at least 24,CARDINAL,,,en,2
+3654,3654,CARDINAL,,,en,2
+between 2024 and 2025,between 2024 and 2025,DATE,,,en,2
+Tens of millions,Tens of millions,CARDINAL,,,en,2
+two-hour-long,two-hour-long,TIME,,,en,2
+WMEC 902,WMEC 902,PRODUCT,,,en,2
+The day,The day,DATE,,,en,2
+fifth,fifth,ORDINAL,,,en,2
+this festive season,this festive season,DATE,,,en,2
+Disney Jollywood Nights,Disney Jollywood Nights,EVENT,,,en,2
+this Saturday,this Saturday,DATE,,,en,2
+"260,000","260,000",CARDINAL,,,en,2
+17 years,17 years,DATE,,,en,2
+earlier this year,earlier this year,DATE,,,en,2
+nine,nine,CARDINAL,,,en,2
+late December 2008,late December 2008,DATE,,,en,2
+250th,250th,ORDINAL,,,en,2
+tonight,tonight,TIME,,,en,2
+Muslims,Muslims,NORP,,,en,2
+Islamic,Islamic,NORP,,,en,2
+Five years ago,Five years ago,DATE,,,en,2
+tomorrow,tomorrow,DATE,,,en,2
+year,year,DATE,,,en,2
+11th,11th,ORDINAL,,,en,2
+four-day,four-day,DATE,,,en,2
+two days,two days,DATE,,,en,2
+Oscar,Oscar,PRODUCT,,,en,2
+More than a third,More than a third,CARDINAL,,,en,2
+next year,next year,DATE,,,en,2
+15 nights,15 nights,DATE,,,en,2
+"9,889","9,889",MONEY,,,en,2
+June,June,DATE,,,en,2
+the New Year’s,the New Year’s,EVENT,,,en,2
+the Christmas,the Christmas,DATE,,,en,2
+January,January,DATE,,,en,2
+18Hz,18Hz,CARDINAL,,,en,2
+Twelve months ago,Twelve months ago,DATE,,,en,2
+every summer,every summer,DATE,,,en,2
+Buddhist,Buddhist,NORP,,,en,2
+recent weeks,recent weeks,DATE,,,en,2
+just days,just days,DATE,,,en,2
+next year's,next year's,DATE,,,en,2
+MotoGP,MotoGP,PRODUCT,,,en,2
+44 days,44 days,DATE,,,en,2
+the World Cup,the World Cup,EVENT,,,en,2
+Nov 13,Nov 13,DATE,,,en,2
+140th,140th,ORDINAL,,,en,2
+earlier this month,earlier this month,DATE,,,en,2
+$1 billion,$1 billion,MONEY,,,en,2
+Victorian,Victorian,NORP,,,en,2
+18th-century,18th-century,DATE,,,en,2
+Hope of the Season: Christmas with The Tabernacle Choir,Hope of the Season: Christmas with The Tabernacle Choir,WORK_OF_ART,,,en,2
+season,season,DATE,,,en,2
+the Opera-Comique,the Opera-Comique,FAC,,,en,2
+Hurricane Gilbert,Hurricane Gilbert,EVENT,,,en,2
+two-night,two-night,TIME,,,en,2
+1988,1988,DATE,,,en,2
+the Rome Vatican Inn,the Rome Vatican Inn,FAC,,,en,2
+up to 30 inches,up to 30 inches,QUANTITY,,,en,2
+8 p.m.,8 p.m.,TIME,,,en,2
+Apia Beach Road,Apia Beach Road,FAC,,,en,2
+rugby league world cups,rugby league world cups,EVENT,,,en,1
+St. Peters Square,St. Peters Square,FAC,,,en,1
+October 25,October 25,DATE,,,en,1
+08:00 am,08:00 am,TIME,,,en,1
+More Than $700 Million,More Than $700 Million,MONEY,,,en,1
+Catholicism,Catholicism,NORP,,,en,1
+2025 / 15:43 pm,2025 / 15:43 pm,TIME,,,en,1
+"November 12, 2025 
+ ","November 12, 2025 
+ ",DATE,,,en,1
+White House,White House,FAC,,,en,1
+Nov. 13,Nov. 13,DATE,,,en,1
+True Heart Religion,True Heart Religion,LAW,,,en,1
+Augustinian,Augustinian,NORP,,,en,1
++11895 chars,+11895 chars,WORK_OF_ART,,,en,1
+over a month,over a month,DATE,,,en,1
+Gazans,Gazans,NORP,,,en,1
+At least 80,At least 80,CARDINAL,,,en,1
+11/14/2025 11:20:13 AM PST,11/14/2025 11:20:13 AM PST,TIME,,,en,1
+ninth,ninth,ORDINAL,,,en,1
+Latin American,Latin American,NORP,,,en,1
+evening,evening,TIME,,,en,1
+nearly 500,nearly 500,CARDINAL,,,en,1
+October 31,October 31,DATE,,,en,1
+"only 7,500","only 7,500",CARDINAL,,,en,1
++4469 chars,+4469 chars,WORK_OF_ART,,,en,1
+"about 100,000","about 100,000",CARDINAL,,,en,1
+generations ago,generations ago,DATE,,,en,1
+140 years,140 years,DATE,,,en,1
+three-week,three-week,DATE,,,en,1
+Dec. 6,Dec. 6,DATE,,,en,1
+January 2025,January 2025,DATE,,,en,1
+1948,1948,DATE,,,en,1
+1773,1773,DATE,,,en,1
+nominalis,nominalis,NORP,,,en,1
+Hundreds,Hundreds,CARDINAL,,,en,1
+at least 497,at least 497,CARDINAL,,,en,1
+next summers,next summers,DATE,,,en,1
+2025 / 08:00,2025 / 08:00,DATE,,,en,1
+26 March,26 March,DATE,,,en,1
+"2:21 PM
+","2:21 PM
+",TIME,,,en,1
+1965,1965,DATE,,,en,1
++2165 chars,+2165 chars,WORK_OF_ART,,,en,1
+mekosuchine,mekosuchine,NORP,,,en,1
+year-old,year-old,DATE,,,en,1
+Vatican II,Vatican II,FAC,,,en,1
+8:59 AM,8:59 AM,TIME,,,en,1
+Latin Mass,Latin Mass,WORK_OF_ART,0.0,0.0,en,1
+650,650,CARDINAL,,,en,1
+Rugby League World Cup,Rugby League World Cup,EVENT,,,en,1
+Six-million-year-,Six-million-year-,CARDINAL,,,en,1
+"12:53 pm
+","12:53 pm
+",TIME,,,en,1
+Oct. 24,Oct. 24,DATE,,,en,1
+earlier in the day,earlier in the day,TIME,,,en,1
+"November 14, 2025","November 14, 2025",DATE,,,en,1
+Inox Wind,Inox Wind,FAC,,,en,1
+14th,14th,ORDINAL,,,en,1
+0.1re,0.1re,MONEY,,,en,1
+2030,2030,DATE,,,en,1
+2025 / 14:53 pm,2025 / 14:53 pm,TIME,,,en,1
+42b983,42b983,MONEY,,,en,1
+44,44,DATE,,,en,1
+The Road,The Road,FAC,,,en,1
+only two days,only two days,DATE,,,en,1
+nearly half,nearly half,CARDINAL,,,en,1
+over 50 years,over 50 years,DATE,,,en,1
+commentsThe,commentsThe,WORK_OF_ART,,,en,1
+10 year,10 year,DATE,,,en,1
+1.4 billion Catholics,1.4 billion Catholics,MONEY,,,en,1
+Decades-Long,Decades-Long,DATE,,,en,1
+the OnePlus 15,the OnePlus 15,PRODUCT,,,en,1
+these days,these days,DATE,,,en,1
+"1,368","1,368",CARDINAL,,,en,1
+"2025 /
+ 14:53 pm","2025 /
+ 14:53 pm",DATE,,,en,1
+the academic year,the academic year,DATE,,,en,1
+eight-kilometer,eight-kilometer,QUANTITY,,,en,1
+2025-11-20 05:00,2025-11-20 05:00,DATE,,,en,1
+"Wednesday, December 24","Wednesday, December 24",DATE,,,en,1
+"Monday, December 15","Monday, December 15",DATE,,,en,1
+Tongans,Tongans,NORP,,,en,1
+2025 / 07:00 am,2025 / 07:00 am,TIME,,,en,1
+Ukrainians,Ukrainians,NORP,,,en,1
+54,54,CARDINAL,,,en,1
+summer 2024,summer 2024,DATE,,,en,1
+hours,hours,TIME,,,en,1
+2025 / 09:00,2025 / 09:00,DATE,,,en,1
+09:00 am,09:00 am,TIME,,,en,1
+Pietà,Pietà,NORP,,,en,1
+We Can Get Better,We Can Get Better,WORK_OF_ART,,,en,1
+the Future of Our Country,the Future of Our Country,WORK_OF_ART,,,en,1
+Mother of the Faithful People”,Mother of the Faithful People”,WORK_OF_ART,,,en,1
+2025 / 12:53 pm,2025 / 12:53 pm,TIME,,,en,1
+The American Revolution,The American Revolution,EVENT,,,en,1
+November 6,November 6,DATE,,,en,1
+South African,South African,NORP,,,en,1
+Stanley Park,Stanley Park,FAC,,,en,1
+Christology,Christology,NORP,,,en,1
+the Week: Dachshund Day,the Week: Dachshund Day,DATE,,,en,1
+"3,500","3,500",MONEY,,,en,1
+5700,5700,MONEY,,,en,1
+afternoon,afternoon,TIME,,,en,1
+Tongan,Tongan,NORP,,,en,1
+year-end,year-end,DATE,,,en,1
+Russians,Russians,NORP,,,en,1
+around 13 million,around 13 million,CARDINAL,,,en,1
+07:00 am,07:00 am,TIME,,,en,1
+Mount Street,Mount Street,FAC,,,en,1
+6%,6%,PERCENT,,,en,1
+Oracle,Oracle,NORP,,,en,1
+Liberty Theatre,Liberty Theatre,FAC,,,en,1
+1930s,1930s,DATE,,,en,1
+100 Years Ago,100 Years Ago,DATE,,,en,1
++2387 chars,+2387 chars,WORK_OF_ART,,,en,1
++1909,+1909,NORP,,,en,1
+11/16/2025 9:52:34 AM PST,11/16/2025 9:52:34 AM PST,TIME,,,en,1
+almost 40,almost 40,CARDINAL,,,en,1
+March,March,DATE,,,en,1
+Around 20,Around 20,CARDINAL,,,en,1
+"10:41pm 
+ ","10:41pm 
+ ",DATE,,,en,1
+the Ninth World Day of the,the Ninth World Day of the,EVENT,,,en,1
+next March,next March,DATE,,,en,1
+Italian,Italian,NORP,,,en,1
+three dozen,three dozen,CARDINAL,,,en,1
+Paul VI Hall,Paul VI Hall,FAC,,,en,1
+"Nov 16, 2025 /
+ 11:15","Nov 16, 2025 /
+ 11:15",DATE,,,en,1
+700,700,MONEY,,,en,1
+Today,Today,DATE,,,en,1
+Operation Pacific Viper,Operation Pacific Viper,WORK_OF_ART,,,en,1
+World Day,World Day,EVENT,,,en,1
+Mass,Mass,FAC,-0.4,0.6,en,1
+Google Blog,Google Blog,WORK_OF_ART,,,en,1
+Lansdowne Road,Lansdowne Road,FAC,,,en,1
+Thursday night,Thursday night,TIME,,,en,1
+Lunch for the Poor,Lunch for the Poor,WORK_OF_ART,,,en,1
+Czechia,Czechia,NORP,,,en,1
+trillion dollar,trillion dollar,MONEY,,,en,1
+Dozens,Dozens,CARDINAL,,,en,1
+A Popular Art in the Noblest Sense',A Popular Art in the Noblest Sense',WORK_OF_ART,,,en,1
+2025 / 10:39 am,2025 / 10:39 am,TIME,,,en,1
+Pražská,Pražská,NORP,,,en,1
+8:00 AM,8:00 AM,TIME,,,en,1
+Nov. 17,Nov. 17,DATE,,,en,1
+the first five months,the first five months,DATE,,,en,1
+"Oct. 7, 2023","Oct. 7, 2023",DATE,,,en,1
+Pochettino,Pochettino,PRODUCT,,,en,1
+NOVEMBER 18,NOVEMBER 18,DATE,,,en,1
+the 2026 World Cup,the 2026 World Cup,EVENT,,,en,1
+the World Cup Draw,the World Cup Draw,EVENT,,,en,1
+November 16th,November 16th,DATE,,,en,1
+Copa Sudamericana,Copa Sudamericana,EVENT,,,en,1
+"Nov. 17, 2025","Nov. 17, 2025",DATE,,,en,1
+Scorching Showdown,Scorching Showdown,WORK_OF_ART,,,en,1
+Aula Paolo VI,Aula Paolo VI,FAC,,,en,1
+the Apostolic Palace,the Apostolic Palace,FAC,,,en,1
+"about 1,300","about 1,300",CARDINAL,,,en,1
+16 November,16 November,DATE,,,en,1
+the Liturgy of the Hours,the Liturgy of the Hours,WORK_OF_ART,,,en,1
+Forty-eight,Forty-eight,CARDINAL,,,en,1
+Sunday ResearchBuzz,Sunday ResearchBuzz,DATE,,,en,1
+"Nov 16, 2025 /
+ 08:00 am
+Celebrating Mass","Nov 16, 2025 /
+ 08:00 am
+Celebrating Mass",DATE,,,en,1
+Mediawan,Mediawan,NORP,,,en,1
+2025 / 13:00 pm,2025 / 13:00 pm,TIME,,,en,1
+1975,1975,DATE,,,en,1
+decades-long,decades-long,DATE,,,en,1
+"more than 1,200","more than 1,200",CARDINAL,,,en,1
+South Africans,South Africans,NORP,,,en,1
+"European Curling Championships
+","European Curling Championships
+",EVENT,,,en,1
+1960s,1960s,DATE,,,en,1
+fourth,fourth,ORDINAL,,,en,1
+Copa,Copa,NORP,0.0,0.5,en,1
+Just a few days ago,Just a few days ago,DATE,,,en,1
+Jumanji,Jumanji,WORK_OF_ART,,,en,1
+"2025 /
+ 13:00 pm","2025 /
+ 13:00 pm",TIME,,,en,1
+"Saturday, Nov. 15","Saturday, Nov. 15",DATE,,,en,1
++2414 chars,+2414 chars,WORK_OF_ART,,,en,1
+English,English,NORP,,,en,1
+On The Rise: JuJu Watkins,On The Rise: JuJu Watkins,WORK_OF_ART,,,en,1
+The second season,The second season,DATE,,,en,1
+the sophomore season,the sophomore season,DATE,,,en,1
+Canadas Catholic,Canadas Catholic,NORP,,,en,1
+$634M,$634M,MONEY,,,en,1
+more than 1200,more than 1200,CARDINAL,,,en,1
+6:00 PM CSTAustralia,6:00 PM CSTAustralia,TIME,,,en,1
+Marchs World Cup,Marchs World Cup,EVENT,,,en,1
+2021,2021,DATE,,,en,1
+15 November,15 November,DATE,,,en,1
+11/15/2025 8:08,11/15/2025 8:08,TIME,,,en,1
+eighth,eighth,ORDINAL,,,en,1
+the Middle Ages,the Middle Ages,DATE,,,en,1
+1820,1820,DATE,,,en,1
+| Nov. 21,| Nov. 21,DATE,,,en,1
+World Day of the Poor,World Day of the Poor,EVENT,,,en,1
+2025 / 08:00 am,2025 / 08:00 am,TIME,,,en,1
+Taiwanese,Taiwanese,NORP,,,en,1
+Nov. 21,Nov. 21,DATE,,,en,1
+two-day,two-day,DATE,,,en,1
+just £119,just £119,MONEY,,,en,1
+At least 24,At least 24,CARDINAL,,,en,1
+St. Peter's Basilica,St. Peter's Basilica,FAC,,,en,1
+another 54,another 54,CARDINAL,,,en,1
+ISRAELS,ISRAELS,NORP,,,en,1
+the later 4th century,the later 4th century,DATE,,,en,1
+overnight,overnight,TIME,,,en,1
+the White House,the White House,FAC,,,en,1
++5909,+5909,NORP,,,en,1
+about 450 acres,about 450 acres,QUANTITY,,,en,1
+six years,six years,DATE,,,en,1
+More than 20,More than 20,CARDINAL,,,en,1
++3934,+3934,NORP,,,en,1
+Hungarian,Hungarian,NORP,,,en,1
+Earlier this month,Earlier this month,DATE,,,en,1
+Japanese,Japanese,LANGUAGE,,,en,1
+last year's,last year's,DATE,,,en,1
+Italys,Italys,NORP,,,en,1
+10km,10km,QUANTITY,,,en,1
+2025 / 06:00 am,2025 / 06:00 am,TIME,,,en,1
+Japans,Japans,NORP,,,en,1
++4165 chars,+4165 chars,WORK_OF_ART,,,en,1
+over 2 million pounds,over 2 million pounds,QUANTITY,,,en,1
+Coming Soon,Coming Soon,WORK_OF_ART,,,en,1
++6803 chars,+6803 chars,WORK_OF_ART,,,en,1
+New 11-Day Journey,New 11-Day Journey,PRODUCT,,,en,1
+next June,next June,DATE,,,en,1
+Fushimi Inari Shrine,Fushimi Inari Shrine,FAC,,,en,1
+Hurricane Melissa Could Make,Hurricane Melissa Could Make,EVENT,,,en,1
++1547 chars],+1547 chars],WORK_OF_ART,,,en,1
+3 Days,3 Days,DATE,,,en,1
+the weekend,the weekend,DATE,,,en,1
+up to 40 inches,up to 40 inches,QUANTITY,,,en,1
+"1,000 millimeter","1,000 millimeter",QUANTITY,,,en,1
+Hot Equerry” Wins a Legion of Fans After Rare Vatican Visit,Hot Equerry” Wins a Legion of Fans After Rare Vatican Visit,WORK_OF_ART,,,en,1
+the 95th Field of Remembrance,the 95th Field of Remembrance,FAC,,,en,1
+Westminster Abbey,Westminster Abbey,FAC,,,en,1
+Oct. 27,Oct. 27,DATE,,,en,1
+Air Force One,Air Force One,PRODUCT,,,en,1
+76 centimeters,76 centimeters,QUANTITY,,,en,1
+Challenger,Challenger,PRODUCT,,,en,1
+Walt Disney World Resort,Walt Disney World Resort,FAC,,,en,1
+"the International Date
+","the International Date
+",EVENT,,,en,1
+72 hours,72 hours,TIME,,,en,1
+Roughly a quarter,Roughly a quarter,CARDINAL,,,en,1
+roughly 59pc of first,roughly 59pc of first,CARDINAL,,,en,1
+Monstrous Hurricane: Ravaging,Monstrous Hurricane: Ravaging,EVENT,,,en,1
+Hurricane,Hurricane,WORK_OF_ART,,,en,1
+the upcoming days,the upcoming days,DATE,,,en,1
+Galwegian,Galwegian,NORP,,,en,1
+Cumbrian,Cumbrian,NORP,,,en,1
+2022,2022,DATE,,,en,1
+Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,WORK_OF_ART,,,en,1
++5350 chars,+5350 chars,WORK_OF_ART,,,en,1
+"over 2,500 kilometers","over 2,500 kilometers",QUANTITY,,,en,1
+"1,200 miles","1,200 miles",QUANTITY,,,en,1
+"November 9, 2023","November 9, 2023",DATE,,,en,1
+Gemini,Gemini,PRODUCT,,,en,1
+The Great Gatsby,The Great Gatsby,WORK_OF_ART,,,en,1
+a day earlier,a day earlier,DATE,,,en,1
+R.,R.,NORP,,,en,1
+2017,2017,DATE,,,en,1
+2027 winter season,2027 winter season,DATE,,,en,1
+this morning,this morning,TIME,,,en,1
+Granadas Iglesia de la Merced,Granadas Iglesia de la Merced,FAC,,,en,1
+Hurricane Melissa',Hurricane Melissa',EVENT,,,en,1
+2022.</li><li,2022.</li><li,CARDINAL,,,en,1
+Almost four decades ago,Almost four decades ago,DATE,,,en,1
+Oak Ridge National Laboratory,Oak Ridge National Laboratory,FAC,,,en,1
++1406 chars,+1406 chars,WORK_OF_ART,,,en,1
+Canada Goose,Canada Goose,FAC,,,en,1
++7950,+7950,NORP,,,en,1
++6111 chars,+6111 chars,WORK_OF_ART,,,en,1
+Thursdays,Thursdays,DATE,,,en,1
+Games Done Queer,Games Done Queer,WORK_OF_ART,,,en,1
+the harvesting season,the harvesting season,DATE,,,en,1
+Sabra,Sabra,NORP,,,en,1
+This morning,This morning,TIME,,,en,1
+Kingston,Kingston,FAC,,,en,1
+the year,the year,DATE,,,en,1
+Republican,Republican,NORP,,,en,1
+"Monday, October 27 to Sunday, November","Monday, October 27 to Sunday, November",DATE,,,en,1
+the Vatican Museum,the Vatican Museum,FAC,,,en,1
+The Activist’ Sells,The Activist’ Sells,WORK_OF_ART,,,en,1
+Tallinn Black Nights Film Festival,Tallinn Black Nights Film Festival,EVENT,,,en,1
+Baltic,Baltic,NORP,,,en,1
+Maduros,Maduros,NORP,,,en,1
++12575,+12575,NORP,,,en,1
+Hurricane Melissa Live Updates:,Hurricane Melissa Live Updates:,EVENT,,,en,1
+Katrina,Katrina,EVENT,,,en,1
+2019,2019,DATE,,,en,1
+404,404,CARDINAL,,,en,1
+just hours,just hours,TIME,,,en,1
+175 mph,175 mph,QUANTITY,,,en,1
+Haugh,Haugh,NORP,,,en,1
+Tis,Tis,WORK_OF_ART,,,en,1
+Jollywood Nights Foodie Guide 2025,Jollywood Nights Foodie Guide 2025,EVENT,,,en,1
+1946,1946,DATE,,,en,1
+Philippine,Philippine,NORP,,,en,1
+next week,next week,DATE,,,en,1
++6200,+6200,NORP,,,en,1
+at least the sixth,at least the sixth,DATE,,,en,1
+Australian Grand Prix,Australian Grand Prix,EVENT,,,en,1
+seventh,seventh,ORDINAL,,,en,1
+this season,this season,DATE,,,en,1
+the Australian Grand Prix,the Australian Grand Prix,EVENT,,,en,1
+thousands,thousands,CARDINAL,,,en,1
+1646,1646,CARDINAL,,,en,1
+At least five,At least five,CARDINAL,,,en,1
+Camp Pendleton,Camp Pendleton,FAC,,,en,1
+Kiwis,Kiwis,WORK_OF_ART,,,en,1
+World War I soldiers,World War I soldiers,EVENT,,,en,1
+New Zealander,New Zealander,NORP,,,en,1
+Kiwi,Kiwi,PRODUCT,,,en,1
+InSAR,InSAR,CARDINAL,,,en,1
+500 Years,500 Years,DATE,,,en,1
+"the Grand Hotel
+","the Grand Hotel
+",FAC,,,en,1
+a century,a century,DATE,,,en,1
+Grand Hotel,Grand Hotel,FAC,,,en,1
+an estimated 10km,an estimated 10km,QUANTITY,,,en,1
+6.2 miles,6.2 miles,QUANTITY,,,en,1
+Oscar Contenders ‘Cover-Up,Oscar Contenders ‘Cover-Up,WORK_OF_ART,,,en,1
+The Eyes Of Ghana’ & More,The Eyes Of Ghana’ & More,WORK_OF_ART,,,en,1
+November 6-9,November 6-9,DATE,,,en,1
+lineup today,lineup today,DATE,,,en,1
+Oct. 16,Oct. 16,DATE,,,en,1
+This Chimp Isn’t Monkeying Around In Trailer For,This Chimp Isn’t Monkeying Around In Trailer For,WORK_OF_ART,,,en,1
+Primate,Primate,PRODUCT,,,en,1
+Ash,Ash,PRODUCT,,,en,1
+Primat,Primat,WORK_OF_ART,,,en,1
++19203,+19203,NORP,,,en,1
+more than 200 years old,more than 200 years old,DATE,,,en,1
+Bacillus licheniformis,Bacillus licheniformis,PRODUCT,,,en,1
+more than 20,more than 20,CARDINAL,,,en,1
+0.6 km,0.6 km,QUANTITY,,,en,1
+1995/1996,1995/1996,DATE,,,en,1
+18.0 ± 0.9 km,18.0 ± 0.9 km,QUANTITY,,,en,1
+up to 75%,up to 75%,PERCENT,,,en,1
+"Abstract
+Objective
+","Abstract
+Objective
+",WORK_OF_ART,,,en,1
+20 years,20 years,DATE,,,en,1
+around 50 million,around 50 million,CARDINAL,,,en,1
+Anglican,Anglican,NORP,,,en,1
+five centuries ago,five centuries ago,DATE,,,en,1
+December 31st,December 31st,DATE,,,en,1
+8PM ET,8PM ET,MONEY,,,en,1
+the day,the day,DATE,,,en,1
+this month,this month,DATE,,,en,1
+"4,000 years","4,000 years",DATE,,,en,1
+"the past 4,000 years","the past 4,000 years",DATE,,,en,1
+the end of the weekend,the end of the weekend,DATE,,,en,1
+the British Library,the British Library,FAC,,,en,1
+the centuries,the centuries,DATE,,,en,1
+the present day,the present day,DATE,,,en,1
+≥20 years,≥20 years,DATE,,,en,1
+"3,400","3,400",MONEY,,,en,1
+20192021,20192021,CARDINAL,,,en,1
+14-oz,14-oz,CARDINAL,,,en,1
+only two,only two,CARDINAL,,,en,1
+"Food Festival
+","Food Festival
+",EVENT,,,en,1
+"600,000","600,000",CARDINAL,,,en,1
+more than half a million,more than half a million,CARDINAL,,,en,1
+the end of the year,the end of the year,DATE,,,en,1
+the Vatican Museums,the Vatican Museums,FAC,,,en,1
+early-season,early-season,DATE,,,en,1
+almost 500 years ago,almost 500 years ago,DATE,,,en,1
+"April 21, 1990","April 21, 1990",DATE,,,en,1
+10-15 km,10-15 km,QUANTITY,,,en,1
++10203,+10203,NORP,,,en,1
+this spring,this spring,DATE,,,en,1
+19,19,MONEY,,,en,1
+35,35,MONEY,,,en,1
+daily,daily,DATE,,,en,1
+‘Valley Of Ashes’ To Netflix,‘Valley Of Ashes’ To Netflix,WORK_OF_ART,,,en,1
+6 Million Years Ago,6 Million Years Ago,DATE,,,en,1
+October,October,DATE,,,en,1
+before 9 weeks,before 9 weeks,DATE,,,en,1
+63,63,DATE,,,en,1
+at least 21,at least 21,CARDINAL,,,en,1
+Indonesia-Pacific,Indonesia-Pacific,EVENT,,,en,1
+Melanesian,Melanesian,NORP,,,en,1
+"6,000","6,000",MONEY,,,en,1
+January 2004,January 2004,DATE,,,en,1
+184 mile,184 mile,QUANTITY,,,en,1
+4 weeks,4 weeks,DATE,,,en,1
+11,11,CARDINAL,,,en,1
+another month,another month,DATE,,,en,1
+about five weeks,about five weeks,DATE,,,en,1
+nine weeks,nine weeks,DATE,,,en,1
+Palm Sunday,Palm Sunday,FAC,,,en,1
+April 13,April 13,DATE,,,en,1
+Nov 11,Nov 11,DATE,,,en,1
+09:30 am,09:30 am,TIME,,,en,1
+Nov. 10,Nov. 10,DATE,,,en,1
++1883 chars,+1883 chars,WORK_OF_ART,,,en,1
+St. Peter's Square,St. Peter's Square,FAC,,,en,1
+Two Months,Two Months,DATE,,,en,1
+at least 6km,at least 6km,QUANTITY,,,en,1
+$80 million,$80 million,MONEY,,,en,1
+Predator: Bad… Hollywood,Predator: Bad… Hollywood,WORK_OF_ART,,,en,1
+the festive season,the festive season,DATE,,,en,1
+the Qing Dynasty,the Qing Dynasty,DATE,,,en,1
+50 years,50 years,DATE,,,en,1
+April 1971,April 1971,DATE,,,en,1
+four years,four years,DATE,,,en,1
+This summer,This summer,DATE,,,en,1
+this summer,this summer,DATE,,,en,1
++11445,+11445,CARDINAL,,,en,1
+Nazi,Nazi,NORP,,,en,1
+The Man in the High Castle,The Man in the High Castle,WORK_OF_ART,,,en,1
+two weeks,two weeks,DATE,,,en,1
++2429 chars,+2429 chars,WORK_OF_ART,,,en,1
+Jew,Jew,NORP,,,en,1
+a little over six months,a little over six months,DATE,,,en,1
+hundreds of meters,hundreds of meters,QUANTITY,,,en,1
+€50m,€50m,MONEY,,,en,1
+Holy Year,Holy Year,EVENT,,,,1
+a Jubilee Year,a Jubilee Year,DATE,,,,1
+industrys,industrys,NORP,,,,1
+Hours later,Hours later,TIME,,,en,1
+JoBlo,JoBlo,PRODUCT,,,en,1
+NewJeans,NewJeans,PRODUCT,,,en,1
+2029,2029,CARDINAL,,,en,1
+€1.2m,€1.2m,MONEY,,,en,1
+November 15,November 15,DATE,,,en,1
+around €50m,around €50m,MONEY,,,en,1
+around 50m,around 50m,MONEY,,,en,1
+a day,a day,DATE,,,en,1
+Israelis,Israelis,NORP,,,en,1
+more than 150,more than 150,CARDINAL,,,en,1
+last month,last month,DATE,,,en,1
+"nearly 2,000","nearly 2,000",CARDINAL,,,en,1
+"Nov. 8, 2025","Nov. 8, 2025",DATE,,,en,1
+the Basilica-Shrine of Our Lady of Ransom,the Basilica-Shrine of Our Lady of Ransom,FAC,,,en,1
+AI and Medicine:,AI and Medicine:,WORK_OF_ART,,,en,1
+2025 / 14:54 pm,2025 / 14:54 pm,TIME,,,en,1
+this fall,this fall,DATE,,,en,1
+A$80 million,A$80 million,MONEY,,,en,1
+November 12,November 12,DATE,,,en,1
+WWII,WWII,EVENT,,,en,1
+French-,French-,NORP,,,en,1
+80,80,DATE,,,en,1
++5022,+5022,CARDINAL,,,en,1
+12 November 2025,12 November 2025,DATE,,,en,1
+Carmelite,Carmelite,NORP,,,en,1
+Jewish-Catholic,Jewish-Catholic,NORP,,,en,1
+"Nov. 11, 2025","Nov. 11, 2025",DATE,,,en,1
+"2025 /
+ 12:45 pm","2025 /
+ 12:45 pm",TIME,,,en,1
+non-Christian,non-Christian,NORP,,,en,1
+2025 / 13:15 pm,2025 / 13:15 pm,TIME,,,en,1
+"13:15 pm
+","13:15 pm
+",TIME,,,en,1
+"12,000","12,000",CARDINAL,,,en,1
+Asia In Brief Chinese infosec blog,Asia In Brief Chinese infosec blog,EVENT,,,en,1
+Asia In Brief  ,Asia In Brief  ,EVENT,,,en,1
+iPad,iPad,PRODUCT,,,en,1
+Marys,Marys,NORP,,,en,1
+100%,100%,PERCENT,,,en,1
+more than 100,more than 100,CARDINAL,,,en,1
+2–0,2–0,CARDINAL,,,en,1
+2025 / 14:04 pm,2025 / 14:04 pm,TIME,,,en,1
++10120,+10120,NORP,,,en,1
+eShop,eShop,PRODUCT,,,en,1
+Five years,Five years,DATE,,,en,1
+week,week,DATE,,,en,1
+Android experien,Android experien,PRODUCT,,,en,1
+"Abstract
+","Abstract
+",WORK_OF_ART,,,en,1
+Keeper,Keeper,WORK_OF_ART,,,en,1
+one week,one week,DATE,,,en,1
+Jellyfish,Jellyfish,NORP,,,en,1
+2015;1,2015;1,CARDINAL,,,en,1
+September,September,DATE,,,en,1
+Vaticans,Vaticans,NORP,0.5,0.5,en,1
+Feb. 28,Feb. 28,DATE,,,en,1
+"November 4, 1995","November 4, 1995",DATE,,,en,1
+30 years,30 years,DATE,,,en,1
+recent seasons,recent seasons,DATE,,,en,1
+the Cocos-Keeling Islands,the Cocos-Keeling Islands,FAC,,,en,1
+Oman,Oman,NORP,,,en,1
+"10,000","10,000",CARDINAL,,,en,1
+Hindu,Hindu,NORP,,,en,1
+some quarters,some quarters,DATE,,,en,1
+Five days,Five days,DATE,,,en,1
+Last week,Last week,DATE,,,en,1
+"1,347","1,347",CARDINAL,,,en,1
+3I/ATLAS,3I/ATLAS,PRODUCT,,,en,1
+11/3/2025,11/3/2025,CARDINAL,,,en,1
+at least two,at least two,CARDINAL,,,en,1
+Pitcairn Grove,Pitcairn Grove,FAC,,,en,1
+Soviet,Soviet,NORP,,,en,1
+Thirty years,Thirty years,DATE,,,en,1
+months-long,months-long,DATE,,,en,1
+Malian,Malian,NORP,,,en,1
+Jamaat,Jamaat,NORP,,,en,1
+Reagan National Airport,Reagan National Airport,FAC,,,en,1
+"1,352","1,352",CARDINAL,,,en,1
++26885,+26885,NORP,,,en,1
+Airbnb,Airbnb,NORP,,,en,1
+1911,1911,DATE,,,en,1
+October 27,October 27,DATE,,,en,1
+November 5,November 5,DATE,,,en,1
+Nearly 1 million,Nearly 1 million,CARDINAL,,,en,1
+Filipinos,Filipinos,NORP,,,en,1
+Nearly a million,Nearly a million,CARDINAL,,,en,1
+days,days,DATE,,,en,1
+more than 200,more than 200,CARDINAL,,,en,1
+"Around 9,000 years ago","Around 9,000 years ago",DATE,,,en,1
+"about 9,000 years ago","about 9,000 years ago",DATE,,,en,1
+26,26,DATE,,,en,1
+Fara refugee camp,Fara refugee camp,FAC,,,en,1
+"More than 5,000","More than 5,000",CARDINAL,,,en,1
+40,40,CARDINAL,,,en,1
+almost a month,almost a month,DATE,,,en,1
+the first day,the first day,DATE,,,en,1
+Pacific,Pacific,NORP,0.0,0.020833333333333332,en,1
+Antarctica,Antarctica,LANGUAGE,0.0,0.013888888888888888,en,1
+202,202,CARDINAL,,,en,1
+Aussie,Aussie,NORP,,,en,1
+Anglo,Anglo,NORP,,,en,1
+the end of the 2025-26 season,the end of the 2025-26 season,DATE,,,en,1
+more than 100 metres,more than 100 metres,QUANTITY,,,en,1
+Australias,Australias,NORP,,,en,1
+the American Revolution Was a World War in All,the American Revolution Was a World War in All,EVENT,,,en,1
+1PM EST,1PM EST,TIME,,,en,1
+the Week,the Week,DATE,,,en,1
+Tuesdays,Tuesdays,DATE,,,en,1
+a good night,a good night,TIME,,,en,1
+Republicans,Republicans,NORP,,,en,1
+Thousands,Thousands,CARDINAL,,,en,1
+World Cup Preview,World Cup Preview,EVENT,,,en,1
