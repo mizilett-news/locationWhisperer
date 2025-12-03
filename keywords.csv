@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Hollywood',en,United States,#83eb4e,#83eb4e,2,0.466609850835,NORTH-AMERICA,4408912-0,4158928,26.011200000000,-80.149490000000,P,United States,ENA
 'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.465132703929,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Niue',en,Niue,#be3115,#be3115,2,0.464045137929,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
-'Stanley Falkland',en,Falkland Islands,#0d7c11,#0d7c11,3,0.461773408332,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
 'Chicago',en,United States,#a9ee6e,#a9ee6e,3,0.461438620707,NORTH-AMERICA,4009921-0,4887398,41.850030000000,-87.650050000000,P,United States,ENA
 'UK',en,United Kingdom,#89f1ed,#89f1ed,3,0.460912010441,EUROPE,4022153-2,2635167,54.758440000000,-2.695310000000,A,United Kingdom,NEU
 'Czech Republic',en,Czechia,#7ed4f0,#7ed4f0,3,0.458701513618,EUROPE,4303381-7,3077311,49.750000000000,15.000000000000,A,Czechia,WCE
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Longyearbyen',en,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.418333363333,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard and Jan Mayen,ARO
 'Cocos Islands',en,Cocos Islands,#8616cc,#8616cc,1,0.416064564386,INDIAN,4298716-7,7304591,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
 'Alofi',en,Niue,#be3115,#be3115,1,0.405964188592,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
+'Stanley Falkland',en,Falkland Islands,#0d7c11,#0d7c11,1,0.392507412082,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.381940147165,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,1,0.380808621848,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,South Georgia and South Sandwich Islands,SOO
 'British Indian Ocean Territory',en,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.372627207412,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,British Indian Ocean Territory,EIO
