@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.472195832747,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'England',en,United States,#8aef73,#8aef73,3,0.471401679458,NORTH-AMERICA,4014770-8,11919979,44.000000000000,-71.000000000000,L,United States,ENA
 'Hollywood',en,United States,#83eb4e,#83eb4e,2,0.468013611800,NORTH-AMERICA,4408912-0,4158928,26.011200000000,-80.149490000000,P,United States,ENA
 'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.465132703929,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Longyearbyen',en,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.418333363333,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard and Jan Mayen,ARO
 'Cocos Islands',en,Cocos Islands,#8616cc,#8616cc,1,0.416064564386,INDIAN,4298716-7,7304591,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
 'Alofi',en,Niue,#be3115,#be3115,1,0.405964188592,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
+'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.401516472835,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,2,0.399725721017,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,South Georgia and South Sandwich Islands,SOO
 'Stanley Falkland',en,Falkland Islands,#0d7c11,#0d7c11,1,0.392507412082,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.381940147165,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
