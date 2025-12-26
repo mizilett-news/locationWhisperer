@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.465132703929,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Niue',en,Niue,#be3115,#be3115,2,0.464045137929,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
 'Chicago',en,United States,#a9ee6e,#a9ee6e,3,0.462151466815,NORTH-AMERICA,4009921-0,4887398,41.850030000000,-87.650050000000,P,United States,ENA
 'Czech Republic',en,Czechia,#7ed4f0,#7ed4f0,3,0.458701513618,EUROPE,4303381-7,3077311,49.750000000000,15.000000000000,A,Czechia,WCE
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.401516472835,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,2,0.401390287386,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,South Georgia and South Sandwich Islands,SOO
 'Longyearbyen',en,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.399490606690,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard and Jan Mayen,ARO
+'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.396262888340,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Stanley Falkland',en,Falkland Islands,#0d7c11,#0d7c11,1,0.392507412082,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
 'British Indian Ocean Territory',en,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.381392134881,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,British Indian Ocean Territory,EIO
 'Grytviken',en,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.377494900644,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and South Sandwich Islands,SOO
