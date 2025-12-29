@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'French Southern Territories',en,French Southern Territories,#1e0f8d,#1e0f8d,2,0.428695272895,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,French Southern Territories,SOO
 'VATICAN CITY',en,Vatican,#6ed4ee,#6ed4ee,3,0.424990000437,EUROPE-AFRICA,4062404-3,6691831,41.902680000000,12.454140000000,P,Vatican,MED
 'Hollywood',en,United States,#83eb4e,#83eb4e,3,0.420639476873,NORTH-AMERICA,4408912-0,4158928,26.011200000000,-80.149490000000,P,United States,ENA
-'Pitcairn',en,Pitcairn,#b29713,#b29713,1,0.418987882866,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn Islands,SPO
 'Cocos Islands',en,Cocos Islands,#8616cc,#8616cc,1,0.416064564386,INDIAN,4298716-7,7304591,-12.156810000000,96.822510000000,P,Cocos (Keeling) Islands,SIO
 'Alofi',en,Niue,#be3115,#be3115,1,0.405964188592,PACIFIC,4290878-4,4036284,-19.052940000000,-169.919570000000,P,Niue,SPO
 'Heard Island and McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.401516472835,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'British Indian Ocean Territory',en,British Indian Ocean Territory,#3e18d9,#3e18d9,2,0.382259710463,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,British Indian Ocean Territory,EIO
 'Grytviken',en,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.377494900644,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and South Sandwich Islands,SOO
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.363165289706,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
+'Pitcairn',en,Pitcairn,#b29713,#b29713,1,0.357039790436,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn Islands,SPO
 'Stanley Falkland',en,Falkland Islands,#0d7c11,#0d7c11,1,0.333781345270,SOUTH-AMERICA,4030866-2,3426691,-51.693820000000,-57.857010000000,P,Falkland Islands,SSA
 'Israel',en,Israel,#5997ec,#5997ec,3,0.322968943197,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'Diego Garcia',en,British Indian Ocean Territory,#3f17d6,#3f17d6,3,0.316088373636,INDIAN,4090770-3,1282575,-7.312640000000,72.451610000000,T,British Indian Ocean Territory,EIO
