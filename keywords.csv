@@ -13,13 +13,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'UK',en,United Kingdom,#89f1ed,#89f1ed,3,0.414836430499,EUROPE,4022153-2,2635167,54.758440000000,-2.695310000000,A,United Kingdom,NEU
 'Gaza',en,Palestinian Territory,#5998ec,#5998ec,3,0.413925014078,EUROPE-AFRICA,4092680-1,281133,31.501610000000,34.466720000000,P,Palestinian Territory,MED
 'Niue',en,Niue,#be3115,#be3115,2,0.412455168906,PACIFIC,4293521-0,4036232,-19.033330000000,-169.866670000000,A,Niue,SPO
-'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,2,0.403048524526,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,South Georgia and South Sandwich Islands,SOO
+'South Georgia and the South Sandwich Islands',en,South Georgia and the South Sandwich Islands,#0c733a,#0c733a,2,0.403875273894,SOUTHERN,4451507-8,3474415,-56.000000000000,-33.000000000000,A,South Georgia and South Sandwich Islands,SOO
 'McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,1,0.401099901758,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
 'Longyearbyen',en,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.399490606690,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard and Jan Mayen,ARO
 'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.396262888340,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'New York',en,United States,#8aee6c,#8aee6c,3,0.394763829113,NORTH-AMERICA,4042011-5,5128581,40.714270000000,-74.005970000000,P,United States,ENA
-'Grytviken',en,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.377494900644,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and South Sandwich Islands,SOO
 'Israel',en,Israel,#5997ec,#5997ec,3,0.377486663021,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
+'Grytviken',en,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.371320710547,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and South Sandwich Islands,SOO
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.363165289706,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
 'Pitcairn',en,Pitcairn,#b29713,#b29713,1,0.357039790436,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn Islands,SPO
 'China',en,China,#ca60ed,#ca60ed,3,0.346077322908,ASIA,4009937-4,1814991,35.000000000000,105.000000000000,A,China,EAS
