@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
 'England',en,United States,#8aef73,#8aef73,3,0.442734964556,NORTH-AMERICA,4014770-8,11919979,44.000000000000,-71.000000000000,L,United States,ENA
-'Falkland Islands',en,Falkland Islands,#0d7b0f,#0d7b0f,2,0.441643045700,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Tokelau',en,Tokelau,#d23017,#d23017,1,0.436610706701,PACIFIC,4236941-1,4031074,-9.167000000000,-171.830000000000,A,Tokelau,EPO
 'UK',en,United Kingdom,#89f1ed,#89f1ed,3,0.432943011710,EUROPE,4022153-2,2635167,54.758440000000,-2.695310000000,A,United Kingdom,NEU
 'Czech Republic',en,Czechia,#7ed4f0,#7ed4f0,3,0.429104668330,EUROPE,4303381-7,3077311,49.750000000000,15.000000000000,A,Czechia,WCE
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Longyearbyen',en,Svalbard and Jan Mayen,#b9e7f7,#b9e7f7,1,0.399490606690,ARCTIC,4099794-7,2729907,78.223340000000,15.646890000000,P,Svalbard and Jan Mayen,ARO
 'New York',en,United States,#8aee6c,#8aee6c,3,0.398124199527,NORTH-AMERICA,4042011-5,5128581,40.714270000000,-74.005970000000,P,United States,ENA
 'Israel',en,Israel,#5997ec,#5997ec,3,0.378361493112,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
+'Falkland Islands',en,Falkland Islands,#0d7b0f,#0d7b0f,1,0.375396978845,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Grytviken',en,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.371320710547,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and South Sandwich Islands,SOO
 'China',en,China,#ca60ed,#ca60ed,3,0.364399881819,ASIA,4009937-4,1814991,35.000000000000,105.000000000000,A,China,EAS
 'French Southern Territories',en,French Southern Territories,#1e0f8d,#1e0f8d,1,0.364391311961,SOUTHERN,4480857-4,1546748,-43.000000000000,67.000000000000,A,French Southern Territories,SOO
