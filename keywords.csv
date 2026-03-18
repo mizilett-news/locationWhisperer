@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Israel',en,Israel,#5997ec,#5997ec,3,0.579208333276,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
+'Israel',en,Israel,#5997ec,#5997ec,3,0.502153977830,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'UK',en,United Kingdom,#89f1ed,#89f1ed,3,0.442250772590,EUROPE,4022153-2,2635167,54.758440000000,-2.695310000000,A,United Kingdom,NEU
 'Czech Republic',en,Czechia,#7ed4f0,#7ed4f0,3,0.434508333747,EUROPE,4303381-7,3077311,49.750000000000,15.000000000000,A,Czechia,WCE
 'British Indian Ocean Territory',en,British Indian Ocean Territory,#3e18d9,#3e18d9,3,0.430625065943,INDIAN,4480858-6,1282588,-6.000000000000,72.000000000000,A,British Indian Ocean Territory,EIO
@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd
 'Falkland Islands',en,Falkland Islands,#0d7b0f,#0d7b0f,1,0.378028196978,SOUTH-AMERICA,4071109-2,3474414,-51.750000000000,-59.166670000000,A,Falkland Islands,SSA
 'Grytviken',en,South Georgia and the South Sandwich Islands,#0d7636,#0d7636,1,0.371320710547,SOUTHERN,1174011807,3426466,-54.281110000000,-36.509200000000,P,South Georgia and South Sandwich Islands,SOO
 'Addis Ababa',en,Ethiopia,#2b6ee7,#2b6ee7,3,0.365137564581,AFRICA,4000459-4,344979,9.024970000000,38.746890000000,P,Ethiopia,NEAF
+'Iran',en,Iran,#5a6bec,#5a6bec,2,0.364421099914,ASIA,4027653-3,130758,32.000000000000,53.000000000000,A,Iran,WCA
 'McDonald Islands',en,Heard Island and McDonald Islands,#B9CCAE,#B9CCAE,2,0.363950493886,SOUTHERN,4451482-7,1547314,-53.117110000000,73.509520000000,A,Heard Island and McDonald Islands,SOO
-'Iran',en,Iran,#5a6bec,#5a6bec,2,0.363520627757,ASIA,4027653-3,130758,32.000000000000,53.000000000000,A,Iran,WCA
 'Pitcairn',en,Pitcairn,#b29713,#b29713,1,0.357039790436,PACIFIC,4115982-2,4030699,-25.066670000000,-130.100000000000,A,Pitcairn Islands,SPO
 'United States Minor Outlying Islands',en,United States Minor Outlying Islands,#e65f25,#e65f25,1,0.355756414210,PACIFIC,4451497-9,5854968,5.875000000000,-162.057000000000,A,U.S. Outlying Islands,EPO
 'Norfolk Island',en,Norfolk Island,#aa1231,#aa1231,2,0.350391051250,PACIFIC,4294928-2,2155115,-29.033330000000,167.950000000000,A,Norfolk Island,SPO
