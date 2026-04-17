@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew,continent,gnd,geonames,latitude,longitude,geotype,country,ipcc
-'Israel',en,Israel,#5997ec,#5997ec,3,0.582192723509,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
+'Israel',en,Israel,#5997ec,#5997ec,3,0.504668104528,EUROPE-AFRICA,4027808-6,294640,31.500000000000,34.750000000000,A,Israel,MED
 'Iran',en,Iran,#5a6bec,#5a6bec,2,0.485471951879,ASIA,4027653-3,130758,32.000000000000,53.000000000000,A,Iran,WCA
 'United States of America',en,United States,#a5ed5d,#a5ed5d,3,0.439511778455,NORTH-AMERICA,4078704-7,11887752,33.458760000000,-90.150810000000,L,United States,CNA
 'Czech Republic',en,Czechia,#7ed4f0,#7ed4f0,3,0.437563072657,EUROPE,4303381-7,3077311,49.750000000000,15.000000000000,A,Czechia,WCE
